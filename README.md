@@ -7,7 +7,7 @@
 
 # Current CV for Different Jobs
 * [CV for Editor/Reviewer/Writer jobs]([Zewei Zhang-CV-updated_20240704.pdf](https://github.com/matrixChimera/current_CV/blob/dd24dc288dc9c8deb29a3c2708684a16f1f21b37/Zewei%20Zhang-CV-updated_20240704.pdf))
-* [CV for Biomedical Scientist jobs]([Zewei Zhang-updated_20260603.pdf]([https://github.com/matrixChimera/current_CV/blob/dd24dc288dc9c8deb29a3c2708684a16f1f21b37/Zewei%20Zhang-CV-updated_20240704.pdf](https://github.com/matrixChimera/current_CV/blob/main/CV-Zewei%20Zhang-updated_20260603.pdf))
+* [CV for Biomedical Scientist jobs]([Zewei Zhang-updated_20260603.pdf]([https://github.com/matrixChimera/current_CV/blob/dd24dc288dc9c8deb29a3c2708684a16f1f21b37/Zewei%20Zhang-CV-updated_20240704.pdf](https://github.com/matrixChimera/current_CV/blob/main/CV-Zewei%20Zhang-updated_20260603.pdf)))
 
 # Websites
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=q3OZf_EAAAAJ): peer-reviewed publications
